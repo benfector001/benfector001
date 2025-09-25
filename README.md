@@ -1,7 +1,7 @@
-# 👋 Oi.
+# 👋 Hi.
 
-- 🎯 Interesse: Pentest e programação
-- 📚 C++
+- 🎯 Pentest and programming.
+- 📚 C++, cryptography.
 - 🌍 Brazil.
 
 ---
